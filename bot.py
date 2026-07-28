@@ -1,7 +1,6 @@
 from telethon import TelegramClient, events
 from datetime import datetime
 import telethon
-print telethon.version
 api_id = 30068618
 api_hash = "44ecce7850da2ab799316e957db6b9b5"
 
