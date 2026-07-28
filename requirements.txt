@@ -2,3 +2,4 @@ aiogram
 flask
 apscheduler
 pytz
+telethon
